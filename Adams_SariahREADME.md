@@ -5,6 +5,7 @@
 [x]10.5 hours spent
 
 Implemented features checked off using the [x]:
+
 [x] 3 defined sections - main header, biography, and videos
 [x]Embedded video interview questions
 [x] Demonstrate minimal CSS styling of background colors, images, text and positioning
