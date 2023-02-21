@@ -2,6 +2,7 @@
 #Sariah Adams
 
 [x]Sariah Adams
+
 [x]10.5 hours spent
 
 Implemented features checked off using the [x]:
